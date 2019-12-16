@@ -1,0 +1,22 @@
+#header1
+{
+	border-color: black;
+	padding-right: 1%;
+	margin-top: 0,2%; 
+	padding-top: 2%;
+}
+#container
+{
+	color: white;
+	margin-top: 0,2%; 
+	padding-top: 2%;
+	padding-right: 1%;
+}
+#footer{
+	background-color: black;
+	width: 100;
+	padding: 2%;
+	color: white;
+}
+
+
